@@ -1,2 +1,2 @@
-# eth2.0_rd
+# eth2.0 Research & Development
 Eth 2.0 Research and Development Group
