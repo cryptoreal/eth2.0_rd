@@ -1,0 +1,8 @@
+Paper
+https://github.com/ethereum/research/blob/master/papers/casper-basics/casper_basics.pdf	
+
+Paper explanation
+https://www.adiasg.me/2020/03/31/casper-ffg-explainer.html	
+
+Casper Paper
+https://arxiv.org/pdf/1710.09437.pdf	
