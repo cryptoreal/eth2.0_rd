@@ -1,0 +1,14 @@
+Gasper : Proof of Stake based consensus protocol, , which is an idealized version of the proposed Ethereum 2.0 beacon chain. The protocol combines Casper FFG, a finality tool, with LMD GHOST, a fork-choice rule.
+https://arxiv.org/pdf/2003.03052.pdf
+
+
+Beacon Chain explainer :
+https://ethos.dev/beacon-chain/
+
+Points for which we need to study further:
+1. How the blocks created in Shards are linked with Beacon chain.What are the 
+crosslinks in shards ?
+
+2. Slots in epoch and how they are related with validators 
+
+
